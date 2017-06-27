@@ -1,0 +1,11 @@
+.galery_img{
+    width: 25%;
+    float: left;
+}
+
+.galery_img img{
+	width:100%;
+}
+body {
+	font-family: 'Roboto', serif !important;
+}
